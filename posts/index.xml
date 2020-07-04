@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Ishan Joshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 13:44:19 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 17:50:08 +0530</lastBuildDate>
     
 	<atom:link href="http://www.ishanjoshi.tech/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Abc</title>
+      <link>http://www.ishanjoshi.tech/abc/</link>
+      <pubDate>Sat, 04 Jul 2020 17:50:08 +0530</pubDate>
+      
+      <guid>http://www.ishanjoshi.tech/abc/</guid>
+      <description>This is post no 3</description>
+    </item>
+    
+    <item>
+      <title>Post2</title>
+      <link>http://www.ishanjoshi.tech/post2/</link>
+      <pubDate>Sat, 04 Jul 2020 17:21:52 +0530</pubDate>
+      
+      <guid>http://www.ishanjoshi.tech/post2/</guid>
+      <description>This is a test post. Lorem ipsum etc. etc.</description>
+    </item>
     
     <item>
       <title>Has the Music Streaming Industry Gotten the Indian Market Wrong?</title>
