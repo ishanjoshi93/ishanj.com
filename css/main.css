@@ -153,6 +153,24 @@ padding: 0;
         border: none;
     }
 
+    .profile-picture {
+        margin-top: 1rem;
+    }
+
+    .myName {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .aboutMe {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .contact {
+        margin-top: 1rem;
+    }
+
     .line {
         display: block;
     }
@@ -168,7 +186,6 @@ padding: 0;
 
     #main {
         width: 96%;
-        margin-top: 5rem;
     }
 
     .back-arrow {
