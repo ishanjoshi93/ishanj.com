@@ -1,0 +1,118 @@
+:root {
+    margin: 0;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    color: #464646;
+    font-family: 'Noto Serif', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Sans', sans-serif;
+    color: #2E2C2C;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.75rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: #3C6C99;
+}
+
+.about {
+    position: absolute;
+    width: 240px;
+    padding: 1rem;
+    left: auto;
+    right: auto;
+    font-size: 16px;
+    text-align: center;
+    border-right: 2px solid #2E2C2C;
+}    
+
+.profile-picture {
+    height: 160px;
+    border-radius: 50%;
+}
+
+.me {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.contact {
+    margin-top: 1.5rem;
+}
+
+    .contact > a {
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+        font-size: 1.25rem;
+        color: #2E2C2C;
+    }
+
+        .contact > a:hover {
+            color: #3C6C99;
+        }
+
+.line {
+    display: none;
+    height: 2px;
+    width: 90%;
+    background-color: #2E2C2C;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+}
+
+main {
+margin-left: 280px;
+/* border-left: 2px solid #2E2C2C; */
+}
+
+ul {
+padding: 0;
+}
+
+.post {
+    max-width: 800px;
+}
+
+    .post > li {
+    list-style: none;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    }
+
+.read-more:hover {
+    text-decoration: underline;
+}
+
+@media only screen and (max-width: 768px) {
+    .about {
+        position: static;
+        width: 100%;
+        text-align: center;
+        padding: 0;
+        margin-right: 0;
+        border: none;
+    }
+
+    .line {
+        display: block;
+    }
+
+    main {
+        margin-left: 0;
+        border: none;
+    }
+}
