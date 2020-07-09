@@ -96,14 +96,16 @@ padding: 0;
     box-shadow: 4px 4px 4px #E5E5E5;
     }
 
-.wrap {
+.thumbnail {
     float: left;
     margin-right: 1rem;
     margin-bottom: 0.5rem;
+    height: 160px;
 }
 
 .article-title {
     margin-top: 0;
+    margin-bottom: 0;
 }
 
 .summary {
