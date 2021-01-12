@@ -1,2 +1,2 @@
-# ishanjoshi.tech
+# ishanj.com
  My Blog
