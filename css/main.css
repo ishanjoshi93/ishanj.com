@@ -97,6 +97,11 @@ padding: 0;
     display: flex;
     }
 
+        .post >li:hover {
+            background-color: rgba(189, 185, 185, 0.37);
+            transition-delay: 0.3s;
+        }
+
     .post > li > a {
         display: flex;
         flex-direction: row;
@@ -127,7 +132,7 @@ padding: 0;
 }
 
 #main {
-    width: 75%;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
     height: 100%;
@@ -213,7 +218,6 @@ padding: 0;
         margin-right: auto;
         max-width: 96%;
     }
-}
 
 @media screen and (max-width: 639px) {
 
@@ -239,4 +243,4 @@ padding: 0;
     #main {
         width: 96%;
     }
-}
+}}

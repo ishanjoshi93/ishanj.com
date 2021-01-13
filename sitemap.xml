@@ -3,20 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.ishanjoshi.tech/music_streaming/</loc>
+    <loc>http://www.ishanj.com/bundling-apple-one/</loc>
+    <lastmod>2021-01-13T23:50:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ishanj.com/music_streaming/</loc>
     <lastmod>2018-09-28T13:44:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ishanjoshi.tech/categories/</loc>
+    <loc>http://www.ishanj.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.ishanjoshi.tech/</loc>
+    <loc>http://www.ishanj.com/</loc>
   </url>
   
   <url>
-    <loc>http://www.ishanjoshi.tech/tags/</loc>
+    <loc>http://www.ishanj.com/tags/</loc>
   </url>
   
 </urlset>

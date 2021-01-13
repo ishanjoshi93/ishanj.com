@@ -2,20 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ishan Joshi</title>
-    <link>http://www.ishanjoshi.tech/</link>
+    <link>http://www.ishanj.com/</link>
     <description>Recent content on Ishan Joshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://www.ishanjoshi.tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ishanj.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Why do companies bundle products and services? A case study on Apple</title>
+      <link>http://www.ishanj.com/bundling-apple-one/</link>
+      <pubDate>Wed, 13 Jan 2021 23:50:36 +0530</pubDate>
+      
+      <guid>http://www.ishanj.com/bundling-apple-one/</guid>
+      <description>I’ve been a long-time subscriber of Apple Music, paying the usual ₹120 (now ₹99) /month. Although, full disclosure - I’m a music aficionado and &amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Has the Music Streaming Industry Gotten the Indian Market Wrong?</title>
-      <link>http://www.ishanjoshi.tech/music_streaming/</link>
+      <link>http://www.ishanj.com/music_streaming/</link>
       <pubDate>Fri, 28 Sep 2018 13:44:19 +0530</pubDate>
       
-      <guid>http://www.ishanjoshi.tech/music_streaming/</guid>
+      <guid>http://www.ishanj.com/music_streaming/</guid>
       <description>About seven years ago, my then friend and current co-founder Aman and I had come up with a weekly Thursday ritual. This ritual was to visit a record store every Thursday and &amp;hellip;</description>
     </item>
     
