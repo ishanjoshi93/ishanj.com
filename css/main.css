@@ -136,6 +136,7 @@ padding: 0;
     margin-left: auto;
     margin-right: auto;
     height: 100%;
+    margin-bottom: 5%;
 }
 
 .home-btn {
@@ -159,6 +160,12 @@ padding: 0;
     margin-bottom: 0.5rem;
 }
 
+.info {
+    font-style: italic;
+    font-size: 0.8rem;
+    width: 100%;
+}
+
 #content {
     width: 100%;
     text-align: justify;
@@ -169,6 +176,11 @@ padding: 0;
     max-width: 90%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.photos {
+    width: 100%;
+    height: auto;
 }
 
 @media screen and (max-width: 1023px) {
@@ -243,4 +255,5 @@ padding: 0;
     #main {
         width: 96%;
     }
-}}
+}
+}
