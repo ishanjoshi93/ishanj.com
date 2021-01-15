@@ -183,8 +183,13 @@ padding: 0;
 }
 
 .photos {
-    width: 100%;
+    max-width: 100%;
     height: auto;
+}
+
+.caption {
+    font-style: italic;
+    font-size: 0.9rem;
 }
 
 @media screen and (max-width: 1024px) {
